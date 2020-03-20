@@ -1,0 +1,6 @@
+D:\classic\classic-Tool\ConsoleApp1\ConsoleApp1\bin\Release\ConsoleApp1.exe.config
+D:\classic\classic-Tool\ConsoleApp1\ConsoleApp1\bin\Release\ConsoleApp1.exe
+D:\classic\classic-Tool\ConsoleApp1\ConsoleApp1\bin\Release\ConsoleApp1.pdb
+D:\classic\classic-Tool\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\classic\classic-Tool\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.exe
+D:\classic\classic-Tool\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.pdb
